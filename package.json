@@ -19,7 +19,7 @@
     "framer-motion": "4.1.17",
     "match-sorter": "6.3.0",
     "moment": "2.29.1",
-    "node-sass": "5.0.0",
+    "node-sass": "6.0.0",
     "nodemon": "^2.0.15",
     "nouislider": "15.0.0",
     "react": "^16.14.0",
